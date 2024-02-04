@@ -117,7 +117,7 @@ xegaPermMutateGenekInversion<-function(gene, lF)
 #' @references Croes, G. A. (1958): 
 #'             A Method for Solving Traveling-Salesman Problems.
 #'             Operations Research, 6(6), pp. 791-812.
-#'             <https://doi.org/10.1287/opre.6.6.791>
+#'             <doi:10.1287/opre.6.6.791>
 #' 
 #' @param gene   A Permutation.
 #' @param lF     Local configuration of the genetic algorithm.
@@ -158,7 +158,7 @@ xegaPermMutateGene2Opt<-function(gene, lF)
 #'             An Effective Heuristic Algorithm 
 #'             for the Traveling-Salesman Problem.
 #'             Operations Research, 21(2), pp. 791-812.
-#'             <https://doi.org/10.1287/opre.21.2.498>
+#'             <doi:10.1287/opre.21.2.498>
 #' 
 #' @param gene   A Permutation.
 #' @param lF     Local configuration of the genetic algorithm.
