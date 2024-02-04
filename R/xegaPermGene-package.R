@@ -69,7 +69,7 @@
 #'     \code{newGene<-Mutate(gene, lF)}
 #'
 #' All local parameters of the mutation function configured are 
-#' expected in the local configuration {lF}.
+#' expected in the local configuration \code{lF}.
 #' 
 #' @section Local Constants of Mutation Functions:
 #'
