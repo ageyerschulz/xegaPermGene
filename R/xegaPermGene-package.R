@@ -153,5 +153,5 @@
 #' @section License: MIT
 #' @section URL: <https://github.com/ageyerschulz/xegaPermGene>
 #' @section Installation: From CRAN by \code{install.packages('xegaPermGene')}
-NULL
+"_PACKAGE"
 
